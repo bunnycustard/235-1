@@ -14,7 +14,7 @@ Scanner::Scanner(string inputfile){
 	initial = 1;
 	char1 = '=';
 	char2 = '=';
-	line1 = 1;
+	line1 = 2;
 	state1 = init;
 	facts = "==";
 }
